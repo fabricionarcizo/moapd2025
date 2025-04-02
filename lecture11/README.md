@@ -1,0 +1,2 @@
+# Lecture #11  (Guest Lecture #01 (Stefanos Chourdakis from Shape))
+The material used during Lecture #11 of the Mobile App Development BSc. 2025 course **on April 09. 2025**. The guest lecturer, Stefanos Chourdakis, from the company `Shape` will present a lecture entitled _Android Development in a Professional Environment (What to Expect to Meet in their Professional Career)_.
